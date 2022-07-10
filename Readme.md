@@ -1,5 +1,5 @@
 # NIGER-CITY
-Hey i'm Divine an 18yrs old developer. I created an npm package that helps you list out States and Town in Nigeria. It's called NigerDelivery, you can use it on any javascript Framw work like reactjs, Vue .e.t.c.
+Hey i'm Divine an 18yrs old developer. I created an npm package that helps you list out States and Town in Nigeria. It's called NigerDelivery, you can use it on any javascript Frame work like reactjs, Vue .e.t.c.
 # LET START WITH JAVASCRIPT
 In your HTML code we need to paste the following default code:
 ```html
