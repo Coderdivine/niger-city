@@ -1,5 +1,5 @@
 # NIGER-CITY
-Hey am shaw from Alpha02.Today I will be teaching how to integrate NigerDelivery on any javascript work frame like reactjs.e.t.c.
+Hey i'm Divine an 18yrs old developer. I created an npm package that helps you list out States and Town in Nigeria. It's called NigerDelivery, you can use it on any javascript Framw work like reactjs, Vue .e.t.c.
 # LET START WITH JAVASCRIPT
 In your HTML code we need to paste the following default code:
 ```html
@@ -68,5 +68,5 @@ const handleAmount=(e)=>{
  The handleAmount setAmount to oneKm * km.
 
   For more information or help call:08165728539,       email:chimdi4332@gmail.com.
-      Am shaw from Alpha02.
+      I'm Chimdi .
    
